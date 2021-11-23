@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/DEVELOPER/ANDROID_APPS/MusicPlayerApp/app/src/main/res/drawable/list_bg.xml" value="0.2791666666666667" />
         <entry key="..\:/DEVELOPER/ANDROID_APPS/MusicPlayerApp/app/src/main/res/layout/activity_main.xml" value="0.2151268115942029" />
+        <entry key="..\:/DEVELOPER/ANDROID_APPS/MusicPlayerApp/app/src/main/res/layout/list_item.xml" value="0.2630208333333333" />
       </map>
     </option>
   </component>
