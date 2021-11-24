@@ -5,10 +5,10 @@
             <solid android:color="#FFF" />
         </shape>
     </item>
-    <item android:left="2dp"  >
-
+    <item android:top="2dp" >
+        // add Android:right="5dp" and Android:left="5dp" for border on left and right
         <shape android:shape="rectangle">
-            <solid android:color="#282828" />
+            <solid android:color="#000000" />
         </shape>
     </item>
 </layer-list>
